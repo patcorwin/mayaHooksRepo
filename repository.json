@@ -1,0 +1,7 @@
+{
+    "version": "1",
+    "packages"" {
+        "https://github.com/patcorwin/fossil": {},
+        "https://github.com/patcorwin/fossilAnimTools": {},
+        "https://github.com/patcorwin/mayaPaco": {},
+}
