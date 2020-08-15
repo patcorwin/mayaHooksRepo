@@ -3,6 +3,6 @@
     "packages": {
         "Fossil Rigging Tool": {"source": "https://github.com/patcorwin/fossil"},
         "Fossil Anim Tools": {"source": "https://github.com/patcorwin/fossilAnimTools"},
-        "PaCo": {"source": "https://github.com/patcorwin/mayaPaco"}
+        "Mayuda": {"source": "https://github.com/patcorwin/mayuda"}
     }
 }
